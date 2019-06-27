@@ -1,0 +1,2 @@
+# tablesearchAngular
+Customizedpipefortablesearch
